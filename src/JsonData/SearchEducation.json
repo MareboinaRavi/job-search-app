@@ -1,0 +1,436 @@
+[
+    
+    {
+        "name":"Below 8th",
+        "id":1,
+        "value":false
+    },
+
+    {
+        "name":"8th pass",
+        "id":2,
+        "value":false
+    },
+
+
+    {
+        "name":"SSC",
+        "id":3,
+        "value":false,
+        "childs":[{
+            "name":"10th"
+        }]
+    },
+
+    {
+        "name":"12th pass",
+        "id":4,
+        "value":false
+    },
+    
+    
+    {
+    "name": "Diploma",
+    "id":5,
+    "value": false,
+    "childs": [{
+            "name": "Architecture",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Civil",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Chemical",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Computers",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Electrical",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Electronics/Telecommunication",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Engineering",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Export/Import",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Fashion Designing/Other designing",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Graphic/Web Designing",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Hotel Management",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Insurance",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Management",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Mechanical",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Tourism",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Visual Arts",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Vocational Course",
+            "id": 17,
+            "value": false
+        }
+
+    ]
+},
+
+
+{
+    " name": "Graduate",
+    "id": 6,
+     "value": false,
+     "childs": [{
+             "name": "Other",
+             "id": 1,
+             "value": false
+         },
+         {
+             "name": "BA",
+             "id": 2,
+             "value": false,
+             "subchilds":[
+                {
+                    "name":"Philosophy",
+                    "id":1,
+                    "isSelected":false
+                },
+                {
+                    "name":"Economics",
+                    "id":2,
+                    "isSelected":false
+                },
+                {
+                    "name":"Political Science",
+                    "id":3,
+                    "isSelected":false
+                },
+                {
+                    "name":"Geography",
+                    "id":4,
+                    "isSelected":false
+                },
+                {
+                    "name":"Sociology",
+                    "id":5,
+                    "isSelected":false
+                },
+               {
+                    "name":"Literature",
+                    "id":6,
+                    "isSelected":false
+                },
+                {
+                    "name":"History",
+                    "id":7,
+                    "isSelected":false
+                },
+                {
+                    "name":"Psychology",
+                    "id":8,
+                    "isSelected":false
+                },
+                {
+                    "name":"Anthropology",
+                    "id":9,
+                    "isSelected":false
+                },
+                {
+                    "name":"Library Science",
+                    "id":10,
+                    "isSelected":false
+                },
+                {
+                    "name":"Archaeology",
+                    "id":11,
+                    "isSelected":false
+                },
+                {
+                    "name":"Education",
+                    "id":12,
+                    "isSelected":false
+                }         
+            ]
+         },
+         {
+            "name": "B.Arch",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "BCA",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "BBA",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "B.Com",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "BEd",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "BDS",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "BHM",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "B.Pharma",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "BSc",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Btech/BE",
+            "id": 12,
+            "value": false,
+            "subchilds":[
+                {
+                    "name":"Mechanical Engineering",
+                    "id":1,
+                    "isSelected":false
+                },
+                {
+                    "name":"Civil Engineering",
+                    "id":2,
+                    "isSelected":false
+                },
+                {
+                    "name":"Electronics and Communication Engineering",
+                    "id":3,
+                    "isSelected":false
+                },
+                {
+                    "name":"Computer Science and Engineering",
+                    "id":4,
+                    "isSelected":false
+                },
+                {
+                    "name":"Electrical Engineering",
+                    "id":5,
+                    "isSelected":false
+                },
+               {
+                    "name":"Aeronautical Engineering",
+                    "id":6,
+                    "isSelected":false
+                },
+                {
+                    "name":"Biotechnology Engineering",
+                    "id":7,
+                    "isSelected":false
+                },
+                {
+                    "name":"Automobile Engineering",
+                    "id":8,
+                    "isSelected":false
+                } ,
+                {
+                    "name":"Others",
+                    "id":9,
+                    "isSelected":false
+                } 
+            ]
+        },
+        {
+            "name": "LLB",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "MBBS",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "BVSC",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "B.PT(physiotherapy)",
+            "id": 16,
+            "value": false
+        }
+ 
+
+     ]
+ },
+
+
+
+{
+   " name": "Post Graduate",
+   "id": 7,
+    "value": false,
+    "childs": [
+        {
+            "name": "CA",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "CS",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "ICWA",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Integrated PG",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "LLM",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "MA",
+            "id":6,
+            "value": false
+        },
+        {
+            "name": "M Arch",
+            "id":7,
+            "value": false
+        },
+        {
+            "name": "M.com",
+            "id":8,
+            "value": false
+        },
+        {
+            "name": "M.Ed",
+            "id":9,
+            "value": false
+        },
+        {
+            "name": "M.Pharma",
+            "id":10,
+            "value": false
+        },
+        {
+            "name": "MSc",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "M.Tech",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "MBA/PGDM",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "MCA",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "MS",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "PG Diploma",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "MVSC",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "MCM",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Other",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "M.PT(Physiotherapy)",
+            "id": 20,
+            "value": false
+        }
+
+    ]
+}
+
+
+]

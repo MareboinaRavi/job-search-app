@@ -1,0 +1,6535 @@
+[
+
+
+    {
+        "name": "Accountant",
+        "id": 1,
+        "value": false,
+        "childs": [
+            {
+                "name": "Audit",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Clerk/Book Keeper",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Finance",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Taxation",
+                "id": 4,
+                "value": false
+            }
+        ]
+    },
+
+
+
+    {
+        "name": "Animation",
+        "id": 2,
+        "value": false,
+        "childs": [
+            {
+                "name": "3D Maya",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "3D Modeler",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Animator",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Art Director",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Cartoonist",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Digital Painter",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Effects Animator",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Flash Animator",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "Forensic Animator",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Graphic Designer",
+                "id": 10,
+                "value": false
+            },
+            {
+                "name": "Lighting Technician",
+                "id": 11,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 12,
+                "value": false
+            },
+            {
+                "name": "STOP MOTION ANIMATOR",
+                "id": 13,
+                "value": false
+            },
+            {
+                "name": "Video Editor",
+                "id": 14,
+                "value": false
+            },
+            {
+                "name": "Video Game Designer",
+                "id": 15,
+                "value": false
+            },
+            {
+                "name": "Visual Developement Artist",
+                "id": 16,
+                "value": false
+            },
+            {
+                "name": "Zbrush",
+                "id": 17,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name": "Architect",
+        "id": 3,
+        "value": false,
+        "childs": [
+            {
+                "name": "Exterior Design",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "InteriorDesign",
+                "id": 2,
+                "value": false
+            }
+        ]
+    },
+
+
+ 
+
+
+    
+
+    {
+        "name": "Bartender",
+        "id": 4,
+        "value": false,
+        "childs": [
+            {
+                "name": "Airlines/Airport",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Bars/Pubs",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Casino",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Clubs",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Hotel & Restaurant",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Pubs and Breweries",
+                "id": 7,
+                "value": false
+            }
+        ]
+    },
+
+
+
+    {
+        "name": "Beautician",
+        "id": 5,
+        "value": false,
+        "childs": [
+            {
+                "name": "Beauty Care",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Esthetician",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Hair",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Make-up",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Manicure",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Massage",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Mens Salon",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Nailcare",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Pedicure",
+                "id": 10,
+                "value": false
+            },
+            {
+                "name": "Pet Grooming",
+                "id": 11,
+                "value": false
+            },
+            {
+                "name": "Shampoo",
+                "id": 12,
+                "value": false
+            },
+            {
+                "name": "Skin Care",
+                "id": 13,
+                "value": false
+            },
+            {
+                "name": "Slimming",
+                "id": 15,
+                "value": false
+            },
+            {
+                "name": "Unisex Salon",
+                "id": 16,
+                "value": false
+            },
+            {
+                "name": "Woman's Salon",
+                "id": 17,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name": "Bouncer",
+        "id": 6,
+        "value": false,
+        "childs": [
+            {
+                "name": "Bars/Pubs",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Casino",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Concerts/Events",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Nightclubs",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Ranches",
+                "id": 6,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name": "BPO/Telecaller",
+        "id": 7,
+        "value": false,
+        "childs": [
+            {
+                "name": "AR Telecaller/Medical Billing",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Domestic",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Incoming",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "International",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Non Voice",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Non-Technical",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Outgoing",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "Quality Analyst",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Recovery Collection",
+                "id": 10,
+                "value": false
+            },
+            {
+                "name": "Sales",
+                "id": 11,
+                "value": false
+            },
+            {
+                "name": "Support",
+                "id": 12,
+                "value": false
+            },
+            {
+                "name": "Technical",
+                "id": 13,
+                "value": false
+            },
+            {
+                "name": "Voice",
+                "id": 14,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name": "Business Analyst",
+        "id": 8,
+        "value": false,
+        "childs": [
+            {
+                "name": "Anova",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Business Analysis",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Data Analysis",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Excel",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "OBIEE Analytics",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Non-Technical",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "SAS",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "SPSS",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "SQL",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Statistical Simulation",
+                "id": 10,
+                "value": false
+            },
+            {
+                "name": "Statistics",
+                "id": 11,
+                "value": false
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "Cameraman",
+        "id": 9,
+        "value": false,
+        "childs": [
+            {
+                "name": "Events",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "News",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Travel",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Wildlife & Nature",
+                "id": 4,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name":"Caretaker/Nanny",
+        "id":10,
+        "value":false
+    },
+
+
+    {
+        "name": "Carpenter",
+        "id": 11,
+        "value": false,
+        "childs": [
+            {
+                "name": "Commercial",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Furniture",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Industrial",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Maintainance",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Other",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Residential",
+                "id": 6,
+                "value": false
+            }
+        ]
+    },
+
+
+    {
+        "name": "Cashier",
+        "id": 12,
+        "value": false,
+        "childs": [
+            {
+                "name": "Banking & Finance",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Construction",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Hotel & Restaurant",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Manufacturing",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Retail",
+                "id": 5,
+                "value": false
+            }
+        ]
+    },
+
+
+
+    {
+        "name": "Cleaner/Washer",
+        "id": 13,
+        "value": false,
+        "childs": [
+            {
+                "name": "Airport",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Auto detailing/ Auto Upholstery",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Automobiles",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Chemical",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Corporate",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Educational Institutions",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Hospitals",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Hotel & Restaurants",
+                "id": 8,
+                "value": false
+            },
+
+            {
+                "name": "Industrial",
+                "id": 9,
+                "value": false
+            },
+
+            {
+                "name": "Lab",
+                "id": 10,
+                "value": false
+            },
+
+            {
+                "name": "Machine",
+                "id": 11,
+                "value": false
+            },
+
+            {
+                "name": "Public Places",
+                "id": 12,
+                "value": false
+            },
+
+            {
+                "name": "Railway Station",
+                "id": 13,
+                "value": false
+            },
+
+            {
+                "name": "Residential",
+                "id": 14,
+                "value": false
+            }
+
+
+        ]
+    },
+
+
+    {
+        "name":"Construction/Laborer",
+        "id":14,
+        "value":false
+    },
+
+
+    {
+        "name": "Content Writer",
+        "id": 15,
+        "value": false,
+        "childs": [
+            {
+                "name": "Banking & Financial Services",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Entertainment",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Fashion",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Medical",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "News",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Review",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Social",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "Technology",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Travel",
+                "id": 10,
+                "value": false
+            }
+
+
+        ]
+    },
+
+    {
+        "name":"Control Room Operator",
+        "id":16,
+        "value":false
+    },
+
+
+    {
+        "name": "Cook/Chef",
+        "id": 17,
+        "value": false,
+        "childs": [
+            {
+                "name": "Baking and Confectionary",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Butcher",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Chinese",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Commis",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Continental",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "French",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Indian Cuisine",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Italian",
+                "id": 8,
+                "value": false
+            },
+            {
+                "name": "Mexican",
+                "id": 9,
+                "value": false
+            },
+            {
+                "name": "Mughlai",
+                "id": 10,
+                "value": false
+            },
+            {
+                "name": "Multi Cuisine",
+                "id": 11,
+                "value": false
+            },
+            {
+                "name": "Non Veg",
+                "id": 12,
+                "value": false
+            },
+            {
+                "name": "North Indian",
+                "id": 13,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 14,
+                "value": false
+            },
+            {
+                "name": "South Indian",
+                "id": 15,
+                "value": false
+            },
+            {
+                "name": "Thai",
+                "id": 16,
+                "value": false
+            },
+            {
+                "name": "Veg",
+                "id": 17,
+                "value": false
+            }
+        ]
+    },
+
+    {
+        "name": "Counsellor",
+        "id": 18,
+        "value": false,
+        "childs": [
+            {
+                "name": "Banking and Finance",
+                "id": 1,
+                "value": false
+            },
+            {
+                "name": "Carrer",
+                "id": 2,
+                "value": false
+            },
+            {
+                "name": "Education",
+                "id": 3,
+                "value": false
+            },
+            {
+                "name": "Legal",
+                "id": 4,
+                "value": false
+            },
+            {
+                "name": "Marriage",
+                "id": 5,
+                "value": false
+            },
+            {
+                "name": "Mental Health",
+                "id": 6,
+                "value": false
+            },
+            {
+                "name": "Others",
+                "id": 7,
+                "value": false
+            },
+            {
+                "name": "Rehabilitation",
+                "id": 8,
+                "value": false
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+{
+    "name": "Data Collection/Survey",
+    "id": 19,
+    "value": false,
+    "childs": [
+        {
+            "name": "Field",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Internet/Online",
+            "id": 2,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Data Entry / Back Office",
+    "id": 20,
+    "value": false
+    
+},
+
+{
+    "name": "Data Scientist",
+    "id": 21,
+    "value": false
+    
+},
+
+{
+    "name": "Database/System/Linux Administrator",
+    "id": 22,
+    "value": false,
+    "childs": [
+        {
+            "name": "Networking",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Patch Management(WSUS)",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Perl",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Python",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Ruby",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "SQL",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Scripting-Powershell",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Troubleshooting",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Windows/Linux Admin",
+            "id": 10,
+            "value": false
+        }
+    ]
+},
+
+
+{
+    "name": "Delivery/Collections",
+    "id": 23,
+    "value": false,
+    "childs": [
+        {
+            "name": "Cash Collection",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Courier Delivery",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Courier/Packet Collection",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Documents Collection",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Food Delivery",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Grocery Delivery",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Other Delivery/Collection",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Recovery Collection",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Van Delivery",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Designer",
+    "id": 24,
+    "value": false,
+    "childs": [
+        {
+            "name": "Animation",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Design CAD",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Designer",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Fashion Design",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Furniture / Home Supplies",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Graphic Design",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Jewelry Design",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Multimedia",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Packaging",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Pattern Division",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Product",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Textile Designer",
+            "id": 12,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Doctor",
+    "id": 25,
+    "value": false,
+    "childs": [
+        {
+            "name": "Aged Care",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Anaesthetist",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Ayurvedic",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Cardiologist",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Dermatologist",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "General Physician",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Gynaecologists",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Hair Transplant Surgeon",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Homeopathic",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Neurologists",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Nutritionist",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Oncologist",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Opthalmologist",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Pathalogy",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Pediatrics",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Pet Crae/Veterinary",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "Physiotherapy",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Plastic Surgeon",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "Psychiateists",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "Radiologist",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Unani Medicine",
+            "id": 22,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Draftsman",
+    "id": 26,
+    "value": false,
+    "childs": [
+        {
+            "name": "Architectural",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Automobile",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Civil",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Design",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Electrical",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Fabrication",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Fire and Gas",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Mechanical",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Structural",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Driver",
+    "id": 27,
+    "value": false,
+    "childs": [
+        {
+            "name": "Ambulance Driver",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Auto Driver",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Commercial Transport Driver",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Comapany Driver",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "E-Rickshaw Driver",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Freight Transport Driver",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Heavy Vehicle Driver",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Interstate Driver",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Homeopathic",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Private Driver",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "School Bus Driver",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Taxi Driver",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Taxi/Cab",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Truck Driver",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Two Wheeler Driver",
+            "id": 16,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "DTP OPerator/Print Consultant",
+    "id": 28,
+    "value": false,
+    "childs": [
+        {
+            "name": "CAD",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Coral Draw",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "MS Powerpoint",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "MS Publisher",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Photoshop",
+            "id": 5,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Dubbing Artist",
+    "id": 29,
+    "value": false,
+    "childs": [
+        {
+            "name": "Cartoon",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "English",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Hindi",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Movie",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Tamil",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Telugu",
+            "id": 6,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Dye Maker",
+    "id": 30,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+{
+    "name":"Editor",
+    "id":31,
+    "value":false
+},
+
+
+{
+    "name": "Electrician",
+    "id": 32,
+    "value": false,
+    "childs": [
+        {
+            "name": "Commercial",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "High Voltage",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Industrial",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Low Voltage",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Residential",
+            "id": 5,
+            "value": false
+        }
+    ]
+},
+
+
+{
+    "name": "Electroplater",
+    "id": 33,
+    "value": false,
+    "childs": [
+        {
+            "name": "Automobile",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Chemical",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Maintenance",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 4,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Engineer",
+    "id": 34,
+    "value": false,
+    "childs": [
+        {
+            "name": "Maintenance Engineer",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Production Engineer",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Industrial",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Quality Engineer",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Testing Engineer",
+            "id": 5,
+            "value": false
+        }
+    ]
+},
+
+
+{
+    "name": "Event Planner",
+    "id": 35,
+    "value": false,
+    "childs": [
+        {
+            "name": "Birthday",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Concerts",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "CorporateEvents",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Cultural Events",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Exhibition & Conference",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Family Events",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Fashion Show",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Film & Musical Events",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Parties & Dj Nights",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Road Shows",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Sports",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Wedding",
+            "id": 12,
+            "value": false
+        }
+    ]
+},
+
+
+
+
+
+
+{
+    "name": "Financial Advisor",
+    "id": 36,
+    "value": false
+    
+},
+
+{
+    "name": "Fire Fighter",
+    "id": 37,
+    "value": false
+    
+},
+
+{
+    "name": "Fitter",
+    "id": 38,
+    "value": false,
+    "childs": [
+        {
+            "name": "Assemble Machines",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Electronic Assembler",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Maintenance",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Mechanical Assembler",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Plastic Work Assembler",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Production Assembler",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Repair",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Welding",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Cutting",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Installing Machines",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Instrument",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Turning",
+            "id": 12,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Floor Manager",
+    "id": 39,
+    "value": false,
+    "childs": [
+        {
+            "name": "Hotel & Restaurant",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Mall",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Retail Store",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Salon",
+            "id": 6,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Foundryman",
+    "id": 40,
+    "value": false
+    
+},
+
+
+
+
+
+
+{
+    "name": "Gardener",
+    "id": 41,
+    "value": false,
+    "childs": [
+        {
+            "name": "Building Gardens",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Commercial",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Domestic",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Industrial",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Other",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Plant Nursery",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Private Home Garden",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Public Parks",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Street Plants",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+
+
+
+
+
+{
+    "name": "Handyman",
+    "id": 42,
+    "value": false
+    
+},
+
+{
+    "name": "Help Desk Executive",
+    "id": 43,
+    "value": false,
+    "childs": [
+        {
+            "name": "Corporate",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Mall",
+            "id": 2,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Hospitality Executive",
+    "id": 44,
+    "value": false,
+    "childs": [
+        {
+            "name": "Aviation",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Hospital",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Hotel & Restaurant",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 4,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Host/Hostess",
+    "id": 45,
+    "value": false,
+    "childs": [
+        {
+            "name": "Airport Ground Staff",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Entertainment",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Events",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Hospital",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Hotel & Restaurant",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "In-flight/ Cabin Crew",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Retail Store Sales Host",
+            "id": 8,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Housekeeping",
+    "id": 46,
+    "value": false
+    
+},
+
+{
+    "name": "HR/Admin",
+    "id": 47,
+    "value": false,
+    "childs": [
+        {
+            "name": "Compliance",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Field Recruiter",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "HRMS",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Learning & Development",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Payrolls",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Personnel Management",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Recruitment",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Training",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+
+
+
+
+
+
+{
+    "name":"Insurance Consultant",
+    "id":48,
+    "value":false
+},
+
+
+{
+    "name": "IT Hardware & Network Engineer",
+    "id": 49,
+    "value": false,
+    "childs": [
+        {
+            "name": "Hardware Installation",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Network Engineering",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Software Installation & Troubleshooting",
+            "id": 4,
+            "value": false
+        }
+    ]
+},
+
+
+{
+    "name": "IT Software - Developer",
+    "id": 50,
+    "value": false,
+    "childs": [
+        {
+            "name": "Android Developement",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Axiom",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Biztalk",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "C / C++",
+            "id": 4,
+            "value": false
+        },  {
+            "name": "C#",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Dot Net",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Drupal",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Java",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Joomla",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Laravel",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Magneto",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 12,
+            "value": false
+        },  {
+            "name": "PHP",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Pega",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Python",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "React Js",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Salesforce",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "Service Now",
+            "id": 18,
+            "value": false
+        },  {
+            "name": "Sharepoint",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "Siebel",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "Tibco",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Visual Basic",
+            "id": 22,
+            "value": false
+        },
+        {
+            "name": "Web Developement",
+            "id": 23,
+            "value": false
+        },  {
+            "name": "Windows Development",
+            "id": 24,
+            "value": false
+        },
+        {
+            "name": "Wordpress",
+            "id": 25,
+            "value": false
+        },
+        {
+            "name": "iOS Development",
+            "id": 26,
+            "value": false
+        }
+   
+    ]
+},
+
+
+{
+    "name": "IT Software - QA/Test Engineer",
+    "id": 51,
+    "value": false,
+    "childs": [
+        {
+            "name": "Automated Testing",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Java",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Manual Testing",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Mobile Testing",
+            "id": 4,
+            "value": false
+        },  {
+            "name": "Other Scripting Languages",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Perl",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Python",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "SQL",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Selenium",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Shell Scripting",
+            "id": 11,
+            "value": false
+        }
+   
+    ]
+},
+
+
+{
+    "name": "IT Software - Web Designer",
+    "id": 52,
+    "value": false,
+    "childs": [
+        {
+            "name": "Adobe Creative Suit",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Adobe Dream Weaver",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Adobe Illustrator Software",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Adobe In-Design Software",
+            "id": 4,
+            "value": false
+        },  {
+            "name": "CSS",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Corel Draw",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Dot Net Frameworks",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Fire works",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Flash",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "HTML",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Media Designs",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Photoshop",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Poster Design",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Sketch",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Typography",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Visual Communication",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "XHTML",
+            "id": 18,
+            "value": false
+        }
+   
+    ]
+},
+
+
+
+
+
+
+
+{
+    "name": "Jam maker",
+    "id": 53,
+    "value": false
+    
+},
+
+{
+    "name": "Jardinero",
+    "id": 54,
+    "value": false
+    
+},     
+
+{
+    "name": "Jazz musician",
+    "id": 55,
+    "value": false
+    
+},
+
+{
+    "name": "Jeweller",
+    "id": 56,
+    "value": false
+    
+},
+
+{
+    "name": "Jockey",
+    "id": 57,
+    "value": false
+    
+},
+
+{
+    "name": "Journalist",
+    "id": 58,
+    "value": false
+    
+},
+
+{
+    "name": "Jam maker",
+    "id": 59,
+    "value": false
+    
+},
+
+{
+    "name": "Jardinero",
+    "id": 60,
+    "value": false
+    
+},     
+
+{
+    "name": "Jazz musician",
+    "id": 61,
+    "value": false
+    
+},
+
+{
+    "name": "Jeweller",
+    "id": 62,
+    "value": false
+    
+},
+
+{
+    "name": "Jockey",
+    "id": 63,
+    "value": false
+    
+},
+
+{
+    "name": "Journalist",
+    "id": 64,
+    "value": false
+    
+},
+
+{
+    "name": "Judge",
+    "id": 65,
+    "value": false
+    
+},
+
+{
+    "name": "Jager",
+    "id": 66,
+    "value": false
+    
+},     
+
+{
+    "name": "Jester",
+    "id": 67,
+    "value": false
+    
+},
+
+{
+    "name": "Joker",
+    "id": 68,
+    "value": false
+    
+},
+
+{
+    "name": "Juicer",
+    "id": 69,
+    "value": false
+    
+},
+
+{
+    "name": "Jailor",
+    "id": 70,
+    "value": false
+    
+},
+
+{
+    "name": "Jurist",
+    "id": 71,
+    "value": false
+    
+},
+
+{
+    "name": "Joiner",
+    "id": 72,
+    "value": false
+    
+},     
+
+{
+    "name": "Justice of the peace",
+    "id": 73,
+    "value": false
+    
+},
+
+{
+    "name": "Japanese teacher",
+    "id": 74,
+    "value": false
+    
+},
+
+{
+    "name": "Jogger",
+    "id": 75,
+    "value": false
+    
+},
+
+{
+    "name": "Jouster",
+    "id": 76,
+    "value": false
+    
+},
+
+{
+    "name": "Jongleur",
+    "id": 77,
+    "value": false
+    
+},
+
+{
+    "name": "Jury",
+    "id": 78,
+    "value": false
+    
+},     
+
+{
+    "name": "Job Recruiter",
+    "id": 79,
+    "value": false
+    
+},
+
+{
+    "name": "Juez",
+    "id": 80,
+    "value": false
+    
+},
+
+{
+    "name": "Janitor",
+    "id": 81,
+    "value": false
+    
+},
+
+{
+    "name": "Jazz player",
+    "id": 82,
+    "value": false
+    
+},
+
+{
+    "name": "Juice maker",
+    "id": 83,
+    "value": false
+    
+},
+
+{
+    "name": "Jail guard",
+    "id": 84,
+    "value": false
+    
+},
+
+{
+    "name": "Jail warden",
+    "id": 85,
+    "value": false
+    
+},
+
+{
+    "name": "Japanese translator",
+    "id": 86,
+    "value": false
+    
+},
+
+{
+    "name": "Journalism",
+    "id": 87,
+    "value": false
+    
+},
+
+{
+    "name": "Juggling",
+    "id": 88,
+    "value": false
+    
+},
+
+{
+    "name": "Judo Instructor",
+    "id": 89,
+    "value": false
+    
+},
+
+{
+    "name": "Judo",
+    "id": 90,
+    "value": false
+    
+},
+
+{
+    "name": "Jardinier",
+    "id": 91,
+    "value": false
+    
+},
+
+{
+    "name": "Jocky",
+    "id": 92,
+    "value": false
+    
+},
+
+{
+    "name": "Jazz singer",
+    "id": 93,
+    "value": false
+    
+},
+
+{
+    "name": "Jousting",
+    "id": 94,
+    "value": false
+    
+},
+
+{
+    "name": "Job finder",
+    "id": 95,
+    "value": false
+    
+},
+
+{
+    "name": "Journalists",
+    "id": 96,
+    "value": false
+    
+},
+
+{
+    "name": "Jazz dancer",
+    "id": 97,
+    "value": false
+    
+},
+
+{
+    "name": "Job seeker",
+    "id": 98,
+    "value": false
+    
+},
+
+{
+    "name": "Jewelry maker",
+    "id": 99,
+    "value": false
+    
+},
+
+{
+    "name": "Jet pilot",
+    "id": 100,
+    "value": false
+    
+},
+
+{
+    "name": "Jail officer",
+    "id": 101,
+    "value": false
+    
+},
+
+{
+    "name": "Jinete",
+    "id": 102,
+    "value": false
+    
+},
+
+{
+    "name": "Jungle explorer",
+    "id": 103,
+    "value": false
+    
+},
+
+{
+    "name": "Justice",
+    "id": 104,
+    "value": false
+    
+},
+
+{
+    "name": "Junior Doctor",
+    "id": 105,
+    "value": false
+    
+},
+
+{
+    "name": "Jornalist",
+    "id": 106,
+    "value": false
+    
+},
+
+{
+    "name": "Jumping",
+    "id": 107,
+    "value": false
+    
+},
+
+{
+    "name": "Jurnalist",
+    "id": 108,
+    "value": false
+    
+},
+
+{
+    "name": "Jackhammer operator",
+    "id": 109,
+    "value": false
+    
+},
+
+{
+    "name": "Jello maker",
+    "id": 110,
+    "value": false
+    
+},
+
+{
+    "name": "Jugador",
+    "id": 111,
+    "value": false
+    
+},
+
+{
+    "name": "Jackhammerer",
+    "id": 112,
+    "value": false
+    
+},
+
+{
+    "name": "Jump roper",
+    "id": 113,
+    "value": false
+    
+},
+
+{
+    "name": "Judo teacher",
+    "id": 114,
+    "value": false
+    
+},
+
+{
+    "name": "Jail Keeper",
+    "id": 115,
+    "value": false
+    
+},
+
+{
+    "name": "Juriste",
+    "id": 116,
+    "value": false
+    
+},
+
+{
+    "name": "Jimador",
+    "id": 117,
+    "value": false
+    
+},
+
+{
+    "name": "Juice seller",
+    "id": 118,
+    "value": false
+    
+},
+{
+    "name": "Jail worker",
+    "id": 119,
+    "value": false
+    
+},
+
+{
+    "name": "Junior developer",
+    "id": 120,
+    "value": false
+    
+},
+
+{
+    "name": "javelin thrower",
+    "id": 121,
+    "value": false
+    
+},
+
+{
+    "name": "Java Programmer",
+    "id": 122,
+    "value": false
+    
+},
+
+{
+    "name": "Jump Roper",
+    "id": 123,
+    "value": false
+    
+},
+
+{
+    "name": "Junior Associate",
+    "id": 124,
+    "value": false
+    
+},
+
+{
+    "name": "Jurado",
+    "id": 125,
+    "value": false
+    
+},
+
+{
+    "name": "Job manager",
+    "id": 126,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+{
+    "name": "Kickboxer",
+    "id": 127,
+    "value": false
+    
+},
+
+{
+    "name": "Kicker",
+    "id": 128,
+    "value": false
+    
+},
+
+{
+    "name": "Kindergarten teacher",
+    "id": 129,
+    "value": false
+    
+},
+
+{
+    "name": "Kinesiologist",
+    "id": 130,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen manager",
+    "id": 131,
+    "value": false
+    
+},
+
+{
+    "name": "Kite maker",
+    "id": 132,
+    "value": false
+    
+},
+
+{
+    "name": "Knight",
+    "id": 133,
+    "value": false
+    
+},
+
+{
+    "name": "karate instructor",
+    "id": 134,
+    "value": false
+    
+},
+
+{
+    "name": "karate teacher",
+    "id": 135,
+    "value": false
+    
+},
+
+{
+    "name": "kick boxer",
+    "id": 136,
+    "value": false
+    
+},
+
+{
+    "name": "kindergarden teacher",
+    "id": 137,
+    "value": false
+    
+},
+
+{
+    "name": "king",
+    "id": 138,
+    "value": false
+    
+},
+
+{
+    "name": "kangaroo trainer",
+    "id": 139,
+    "value": false
+    
+},
+
+{
+    "name": "karate master",
+    "id": 140,
+    "value": false
+    
+},
+
+{
+    "name": "Knife thrower",
+    "id": 141,
+    "value": false
+    
+},
+
+{
+    "name": "keeper",
+    "id": 142,
+    "value": false
+    
+},
+
+{
+    "name": "kitchen staff",
+    "id": 143,
+    "value": false
+    
+},
+
+{
+    "name": "Kayaker",
+    "id": 144,
+    "value": false
+    
+},
+
+{
+    "name": "kilt maker",
+    "id": 145,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen assistant",
+    "id": 146,
+    "value": false
+    
+},
+
+{
+    "name": "knife maker",
+    "id": 147,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen designer",
+    "id": 148,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen porter",
+    "id": 149,
+    "value": false
+    
+},
+
+{
+    "name": "Kinesiologo",
+    "id": 150,
+    "value": false
+    
+},
+
+{
+    "name": "Kite Surfer",
+    "id": 151,
+    "value": false
+    
+},
+
+{
+    "name": "Killing",
+    "id": 152,
+    "value": false
+    
+},
+
+{
+    "name": "Koala keeper",
+    "id": 153,
+    "value": false
+    
+},
+
+{
+    "name": "knitting",
+    "id": 154,
+    "value": false
+    
+},
+
+{
+    "name": "Key maker",
+    "id": 155,
+    "value": false
+    
+},
+
+{
+    "name": "karateka",
+    "id": 155,
+    "value": false
+    
+},
+
+{
+    "name": "kitemaker",
+    "id": 156,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen hand",
+    "id": 157,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen cleaner",
+    "id": 158,
+    "value": false
+    
+},
+
+{
+    "name": "Kayaking",
+    "id": 159,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen chef",
+    "id": 160,
+    "value": false
+    
+},
+
+{
+    "name": "kitchen worker",
+    "id": 161,
+    "value": false
+    
+},
+
+{
+    "name": "Kite flier",
+    "id": 162,
+    "value": false
+    
+},
+
+{
+    "name": "knee surgeon",
+    "id": 163,
+    "value": false
+    
+},
+
+{
+    "name": "Kangaroo wrangler",
+    "id": 164,
+    "value": false
+    
+},
+
+{
+    "name": "K-pop singer",
+    "id": 165,
+    "value": false
+    
+},
+
+{
+    "name": "Kangaroo keeper",
+    "id": 166,
+    "value": false
+    
+},
+
+{
+    "name": "Kitchen Supervisor",
+    "id": 167,
+    "value": false
+    
+},
+
+{
+    "name": "karate trainer",
+    "id": 168,
+    "value": false
+    
+},
+
+{
+    "name": "Kinesiology",
+    "id": 169,
+    "value": false
+    
+},
+
+{
+    "name": "Kite Runner",
+    "id": 170,
+    "value": false
+    
+},
+
+{
+    "name": "korean teacher",
+    "id": 171,
+    "value": false
+    
+},
+
+{
+    "name": "Kick-boxer",
+    "id": 172,
+    "value": false
+    
+},
+
+{
+    "name": "Karate fighter",
+    "id": 173,
+    "value": false
+    
+},
+
+{
+    "name": "knee doctor",
+    "id": 174,
+    "value": false
+    
+},
+
+{
+    "name": "key account manager",
+    "id": 175,
+    "value": false
+    
+},
+
+{
+    "name": "kinder teacher",
+    "id": 176,
+    "value": false
+    
+},
+
+{
+    "name": "Keyboardist",
+    "id": 177,
+    "value": false
+    
+},
+
+{
+    "name": "Kickboxing",
+    "id": 178,
+    "value": false
+    
+},
+
+{
+    "name": "Kayak instructor",
+    "id": 179,
+    "value": false
+    
+},
+
+{
+    "name": "Kinesthesiologist",
+    "id": 180,
+    "value": false
+    
+},
+
+{
+    "name": "Karate Sensei",
+    "id": 181,
+    "value": false
+    
+},
+
+{
+    "name": "kale farmer",
+    "id": 182,
+    "value": false
+    
+},
+
+{
+    "name": "Knife sharpener",
+    "id": 183,
+    "value": false
+    
+},
+
+{
+    "name": "Kin",
+    "id": 184,
+    "value": false
+    
+},
+
+{
+    "name": "kitesurfer",
+    "id": 185,
+    "value": false
+    
+},
+
+{
+    "name": "kpop singer",
+    "id": 186,
+    "value": false
+    
+},
+
+{
+    "name": "Kiteboarder",
+    "id": 187,
+    "value": false
+    
+},
+
+{
+    "name": "Karateca",
+    "id": 188,
+    "value": false
+    
+},
+
+{
+    "name": "karen",
+    "id": 189,
+    "value": false
+    
+},
+
+{
+    "name": "kickball player",
+    "id": 190,
+    "value": false
+    
+},
+
+{
+    "name": "kung fu master",
+    "id": 191,
+    "value": false
+    
+},
+
+{
+    "name": "Kickboxing Instructor",
+    "id": 192,
+    "value": false
+    
+},
+
+{
+    "name": "Knowledge manager",
+    "id": 193,
+    "value": false
+    
+},
+
+{
+    "name": "KFC worker",
+    "id": 194,
+    "value": false
+    
+},
+
+{
+    "name": "KILLER",
+    "id": 195,
+    "value": false
+    
+},
+
+{
+    "name": "koala trainer",
+    "id": 196,
+    "value": false
+    
+},
+
+{
+    "name": "Keeper of bees",
+    "id": 197,
+    "value": false
+    
+},
+
+{
+    "name": "Künstler",
+    "id": 198,
+    "value": false
+    
+},
+
+{
+    "name": "Keycutter",
+    "id": 199,
+    "value": false
+    
+},
+
+{
+    "name": "Kinésithérapeute",
+    "id": 200,
+    "value": false
+    
+},
+
+{
+    "name": "Karate professor",
+    "id": 201,
+    "value": false
+    
+},
+
+{
+    "name": "Key cutter",
+    "id": 202,
+    "value": false
+    
+},
+
+{
+    "name": "kickball",
+    "id": 203,
+    "value": false
+    
+},
+
+{
+    "name": "kpop idol",
+    "id": 204,
+    "value": false
+    
+},
+
+{
+    "name": "Kite-maker",
+    "id": 205,
+    "value": false
+    
+},
+
+{
+    "name": "Knife seller",
+    "id": 206,
+    "value": false
+    
+},
+
+{
+    "name": "Kid",
+    "id": 207,
+    "value": false
+    
+},
+
+{
+    "name": "Kine",
+    "id": 208,
+    "value": false
+    
+},
+
+{
+    "name": "Kangaroo caretaker",
+    "id": 209,
+    "value": false
+    
+},
+
+{
+    "name": "Karaoke Singer",
+    "id": 210,
+    "value": false
+    
+},
+
+{
+    "name": "Kara",
+    "id": 211,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+
+{
+    "name": "Lab Assistant",
+    "id": 212,
+    "value": false,
+    "childs": [
+        {
+            "name": "Cardiology",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Chemical",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Clinical",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Haemotology",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Metallurgy",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Micro Biology",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Microbiology",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Pathology",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Phlebotomist",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Radio",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Radiographer",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "X-Ray Technician",
+            "id": 12,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Language Translator",
+    "id": 213,
+    "value": false,
+    "childs": [
+        {
+            "name": "Chinese",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "French",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "German",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Italian",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Japanese",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Korean",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Portugal",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Russian",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Spanish",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Legal",
+    "id": 214,
+    "value": false,
+    "childs": [
+        {
+            "name": "Commercial Agreement",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Contract Management",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Corporate",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Intellectual Property",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Bankruptcy",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Constitutional",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Criminal",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Employment",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Environmental",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Family & Divorce",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Government",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Immigration",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Medical",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Property",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Real Estate",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Tax",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Labour",
+            "id": 17,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Librarian",
+    "id": 215,
+    "value": false
+    
+},
+
+{
+    "name": "Life Guard",
+    "id": 216,
+    "value": false
+    
+},
+
+{
+    "name": "Lighting Technician",
+    "id": 217,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+{
+    "name": "Maid",
+    "id": 218,
+    "value": false,
+    "childs": [
+        {
+            "name": "Liven maid",
+            "id": 1,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name":"Market Research Analyst",
+    "id":219,
+    "value":false
+},
+
+
+{
+    "name": "Marketing",
+    "id": 220,
+    "value": false,
+    "childs": [
+        {
+            "name": "Apparel",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Banking & Financial Services",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Beauty Care",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Brand Marketing",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Club Memberships",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Digital Marketing",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Exhibition Planning",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Healthcare",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Inventory Management",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Logistics Marketing",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Media",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 12,
+            "value": false
+        }
+
+    ]
+},
+
+
+
+{
+    "name": "Mechanic",
+    "id": 221,
+    "value": false,
+    "childs": [
+        {
+            "name": "AC repair",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "ATM Operator",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Automobile",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "CCTV Technician",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "DTH",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Fitter",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Four-Wheeler",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Fridge",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "HVAC",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "IP Technician",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Mobile-Repair",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Optical Fiber Technician",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Other Machine Repair",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Printer Repair Technician",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Radio/TV Repair",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "SDH DWDM Technician",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Solar PV Installer",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "Three-Wheeler",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Two-Wheeler",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "Washing Machine Repair",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "WaterPurifier/RO Technician",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Welder",
+            "id": 22,
+            "value": false
+        }
+
+    ]
+},
+
+
+{
+    "name": "Medical Assistant",
+    "id": 222,
+    "value": false,
+    "childs": [
+        {
+            "name": "Dermatology",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "ENT",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Gynaecology",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Pediatric",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Urology",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Audiologist",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Cardiology",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Clinical",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Dental",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Micro Biology",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Pathology",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Radio",
+            "id": 12,
+            "value": false
+        }
+
+
+    ]
+},
+
+
+{
+    "name":"Medical Representative",
+    "id":223,
+    "value":false
+},
+
+
+{
+    "name": "Microbiologist",
+    "id": 224,
+    "value": false,
+    "childs": [
+        {
+            "name": "Alcohol",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Bio Technology",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Dairy",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Environment",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Hospital",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Pharma Manufacturing",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Research",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Restaurant",
+            "id": 9,
+            "value": false
+        }
+    
+    ]
+},
+
+
+{
+    "name":"MIS Executive",
+    "id":225,
+    "value":false
+},
+
+
+{
+    "name": "Moulder",
+    "id": 226,
+    "value": false,
+    "childs": [
+        {
+            "name": "Confection Injection Moulding",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Elastomer Injection Moulding",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Glass Injection Moulding",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Plastic Injection Moulding",
+            "id": 5,
+            "value": false
+        
+        }
+        
+    
+    ]
+},
+
+
+
+
+
+
+{
+    "name": "Nurse",
+    "id": 227,
+    "value": false,
+    "childs": [
+        {
+            "name": "Ambulance",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Clinic",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Dialysis",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "First aid kit",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "General duty assistant",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Hospital",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "IVF Nurse",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Private House",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Nutritionist/Dietician",
+    "id": 228,
+    "value": false
+    
+},
+
+
+
+
+
+
+{
+    "name": "Office Assistant/Helper",
+    "id": 229,
+    "value": false,
+    "childs": [
+        {
+            "name": "Front Desk",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Inventory Incharge",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Pantry Boy",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Clerk",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Service Stations",
+            "id": 5,
+            "value": false
+        
+        }
+        
+    
+    ]
+},
+
+
+{
+    "name": "Operator/Machinist",
+    "id": 230,
+    "value": false,
+    "childs": [
+        {
+            "name": "Annealing",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Boiler",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "CNC Drill",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "CCTV Technician",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Carpet machine operator",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Control Room Operator",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Crane",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Cylinderical Grinder",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "DRO",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Digital printing machine",
+            "id": 10,
+            "value": false
+        
+        },
+        {
+            "name": "Edge Bender Operator",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Elevator",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Excavator",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Finishing",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Fire Alaram",
+            "id": 15,
+            "value": false
+        
+        },
+        {
+            "name": "Flex machine",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Food Production Machine Operator",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "Forklift",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Hobbing machine",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "Hot Press Machine Operator",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "Hydra",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Lathe Machine",
+            "id": 22,
+            "value": false
+        },
+        {
+            "name": "Laundry",
+            "id": 23,
+            "value": false
+        },
+        {
+            "name": "Milling Machine",
+            "id": 24,
+            "value": false
+        },
+        {
+            "name": "Molding",
+            "id": 25,
+            "value": false
+        
+        },
+        {
+            "name": "Multi Boring Machine Operator",
+            "id": 26,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 27,
+            "value": false
+        },
+        {
+            "name": "Packer operator",
+            "id": 28,
+            "value": false
+        },
+        {
+            "name": "Panel Saw Operator",
+            "id": 29,
+            "value": false
+        },
+        {
+            "name": "Press Machine",
+            "id": 30,
+            "value": false
+        },
+        
+        {
+            "name": "Pump",
+            "id": 31,
+            "value": false
+        },
+        {
+            "name": "Punch Machine",
+            "id": 32,
+            "value": false
+        },
+        {
+            "name": "Stacker",
+            "id": 33,
+            "value": false
+        },
+        {
+            "name": "Thermoforming",
+            "id": 34,
+            "value": false
+        },
+        {
+            "name": "Tow Truck",
+            "id": 35,
+            "value": false
+        
+        },
+        {
+            "name": "Tubewell",
+            "id": 36,
+            "value": false
+        },
+        {
+            "name": "Turning Machine",
+            "id": 37,
+            "value": false
+        },
+        {
+            "name": "VMC Machine",
+            "id": 38,
+            "value": false
+        }
+    
+    ]
+},
+
+{
+    "name":"Optometrist",
+    "id":231,
+    "value":false
+},
+
+
+
+
+
+
+
+{
+    "name": "Packager",
+    "id": 232,
+    "value": false,
+    "childs": [
+        {
+            "name": "Food Packaging",
+            "id": 1,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Painter",
+    "id":233,
+    "value": false,
+    "childs": [
+        {
+            "name": "Car Painter",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Exterior wall painting",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Glass Painting",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Industrial Steel Painter",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Interior wall Painting",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Metal Painter",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Portrait Painter",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Spray Painter",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Wood Painter",
+            "id": 10,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Pest Control Executive",
+    "id": 234,
+    "value": false
+    
+},
+
+{
+    "name": "Pharmacist",
+    "id": 235,
+    "value": false,
+    "childs": [
+        {
+            "name": "Formulation",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Packaging",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "QC",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Research & Developement",
+            "id": 5,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Photographer",
+    "id": 236,
+    "value": false
+    
+},
+
+{
+    "name": "Plumber",
+    "id": 237,
+    "value": false,
+    "childs": [
+        {
+            "name": "Clogged Drain Pipe",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Drain Water System",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Faucet Repair/ Replacement",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Industrial Drainage Coursework",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Pipe Cutting",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Pipes Securing",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Repairing Plumbing Systems",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Repairing/Installing water Heaters",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Residential Drainage Coursework",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Sewage Treatment",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Shower Repair/Replacement",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Tap Repair/ Replacement",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Valves Installation",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Water Supply Expert",
+            "id": 14,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Porter",
+    "id": 238,
+    "value": false,
+    "childs": [
+        {
+            "name": "Airport Porter",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Commercial Porter",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Corporate Porter",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Hospital Porter",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Hotel Porter",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Industrial Porter",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Railway Porter",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Residential Porter",
+            "id": 8,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Product Manager",
+    "id": 239,
+    "value": false,
+    "childs": [
+        {
+            "name": "Banking & Finance",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "IT",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Marketing",
+            "id": 4,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Program/Project Manager",
+    "id": 240,
+    "value": false
+    
+},
+
+{
+    "name": "Projectionist",
+    "id": 241,
+    "value": false
+    
+},
+
+{
+    "name": "Public Relations",
+    "id": 242,
+    "value": false
+    
+},
+
+{
+    "name": "Purchase Executive",
+    "id": 243,
+    "value": false,
+    "childs": [
+        {
+            "name": "FMCG Purchase",
+            "id": 1,
+            "value": false
+        }
+    ]
+},
+
+
+
+
+
+
+{
+    "name": "Quality and Inspection",
+    "id": 244,
+    "value": false,
+    "childs": [
+        {
+            "name": "2 Wheeler Evaluator",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "4 Wheeler Evaluator",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Construction",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Pharmaceutical",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Reporting",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Steel",
+            "id": 7,
+            "value": false
+        }       
+    
+    ]
+},
+
+
+
+
+
+
+
+{
+    "name": "Receptionist/Front Office",
+    "id": 245,
+    "value": false,
+    "childs": [
+        {
+            "name": "Bank",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Comapany",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Educational Institute",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Hospital",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Hotel",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Industry",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Offices",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Service Stations",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Showroom",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Reporter",
+    "id": 246,
+    "value": false,
+    "childs": [
+        {
+            "name": "Anchor",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Business",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Crime",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Entertainment",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Fashion",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Field",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "General",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "News Editor",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Press",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Reporter/Sub Editor",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Sports",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Travel",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Weather",
+            "id": 13,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Rigger",
+    "id": 247,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+{
+    "name":"Safety Officer",
+    "id":248,
+    "value":false
+},
+
+
+{
+    "name": "Sales",
+    "id": 249,
+    "value": false,
+    "childs": [
+        {
+            "name": "Apparel",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Automobile",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Banking & Financial Services",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Cement/ Concrete Sales",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Construction equipments",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Consumer Durables",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "E-Commerce",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Electronics Sales",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Entertainment/Event",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "FMCG",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Food and Beverage Sales",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Health",
+            "id": 12,
+            "value": false
+        
+        },
+        {
+            "name": "IT",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Industrial Sales",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "Insurance",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Jewellery",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "Laptop/Mobile",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "Manufacturing",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Mutual Funds Sales",
+            "id": 19,
+            "value": false
+        
+        },
+        {
+            "name": "Others",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "Paint Sales",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Pharma",
+            "id": 22,
+            "value": false
+        },
+        {
+            "name": "Plywood Sales",
+            "id": 23,
+            "value": false
+        },
+        {
+            "name": "Real Estate",
+            "id": 24,
+            "value": false
+        },
+        {
+            "name": "Retail",
+            "id": 25,
+            "value": false
+        },
+        {
+            "name": "Sewage Treatment",
+            "id": 26,
+            "value": false
+        
+        },
+        {
+            "name": "Shares Derivatives / Financial Trading",
+            "id": 27,
+            "value": false
+        },
+        {
+            "name": "Solar System Sales",
+            "id": 28,
+            "value": false
+        },
+        {
+            "name": "Telecom",
+            "id": 29,
+            "value": false
+        },
+        {
+            "name": "Tours & Travels",
+            "id": 30,
+            "value": false
+        }          
+    
+    ]
+},
+
+{
+    "name":"SAP Consultant",
+    "id":250,
+    "value":false
+},
+
+{
+    "name":"Scientist/Research",
+    "id":251,
+    "value":false
+},
+
+
+{
+    "name": "Security/Guard",
+    "id": 252,
+    "value": false,
+    "childs": [
+        {
+            "name": "Alaram Systems",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Armed Forces",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Fire Safety",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Gun Man",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Intelligence",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Mobile/Patrol",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Pistol Man",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Police",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Private Security",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Retired Military Personnel",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Security Services/Custodian",
+            "id": 12,
+            "value": false
+        
+        },
+        {
+            "name": "Vigilance",
+            "id": 13,
+            "value": false
+        }         
+    
+    ]
+},
+
+
+{
+    "name":"Sheeet Metal Worker",
+    "id":253,
+    "value":false
+},
+
+
+{
+    "name":"Software Architect",
+    "id":254,
+    "value":false
+},
+
+
+{
+    "name": "Soldering Operator",
+    "id": 255,
+    "value": false,
+    "childs": [
+        {
+            "name": "Brazing Soldering",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Breadboard Soldering",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Connector Soldering",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Electronic Soldering",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "IC Soldering",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Others",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "PCB Soldering",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Pipe Soldering",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "SMD Soldering",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Splice Soldering",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Wave Soldering",
+            "id": 11,
+            "value": false
+        }         
+    
+    ]
+},
+
+
+{
+    "name": "Sound Engineer",
+    "id": 256,
+    "value": false,
+    "childs": [
+        {
+            "name": "Commercial",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Computer Games",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Corporate Videos",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Events",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Film",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Interviews",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Podcast",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Radio",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Seminars",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Short Films / Documentry",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Studio",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "TV",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Web Series",
+            "id": 11,
+            "value": false
+        }             
+    
+    ]
+},
+
+
+{
+    "name": "Sports Trainer",
+    "id": 257,
+    "value": false,
+    "childs": [
+        {
+            "name": "Adults",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Atheletes",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Differently Abled",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Kids",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Teenagers",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Women",
+            "id": 6,
+            "value": false
+        }           
+    
+    ]
+},
+
+
+
+
+
+
+
+{
+    "name": "Tailor",
+    "id": 258,
+    "value": false,
+    "childs": [
+        {
+            "name": "Boutique Tailor",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Designer Tailor",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Gents Tailor",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Industrial Tailor",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Ladies Tailor",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Leather Tailor",
+            "id": 6,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Teacher",
+    "id": 259,
+    "value": false,
+    "childs": [
+        {
+            "name": "Computer",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Hindi",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Math",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Sanskrit",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Science",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Social Science",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Abacus",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Accounts",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Arabic",
+            "id": 9,
+            "value": false
+        },
+        {
+            "name": "Arts and Crafts",
+            "id": 10,
+            "value": false
+        },
+        {
+            "name": "Biology",
+            "id": 11,
+            "value": false
+        },
+        {
+            "name": "Chemistry",
+            "id": 12,
+            "value": false
+        },
+        {
+            "name": "Commerce",
+            "id": 13,
+            "value": false
+        },
+        {
+            "name": "Economics",
+            "id": 14,
+            "value": false
+        },
+        {
+            "name": "English",
+            "id": 15,
+            "value": false
+        },
+        {
+            "name": "Finance",
+            "id": 16,
+            "value": false
+        },
+        {
+            "name": "French",
+            "id": 17,
+            "value": false
+        },
+        {
+            "name": "HR",
+            "id": 18,
+            "value": false
+        },
+        {
+            "name": "Kannada",
+            "id": 19,
+            "value": false
+        },
+        {
+            "name": "Marketing",
+            "id": 20,
+            "value": false
+        },
+        {
+            "name": "Physics",
+            "id": 21,
+            "value": false
+        },
+        {
+            "name": "Spanish",
+            "id": 22,
+            "value": false
+        },
+        {
+            "name": "Tamil",
+            "id": 23,
+            "value": false
+        },
+        {
+            "name": "Urdu",
+            "id": 24,
+            "value": false
+        },
+        {
+            "name": "Zoology",
+            "id": 25,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Ticketing Executive",
+    "id": 260,
+    "value": false,
+    "childs": [
+        {
+            "name": "Airlines",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Events",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Hotel & Restaurant",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Multiplex",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Railway",
+            "id": 6,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Trainer",
+    "id": 261,
+    "value": false,
+    "childs": [
+        {
+            "name": "Aerobics",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Dance",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Gym",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Language",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Martial Arts",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Musical Instruments",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Soft skills",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Sport",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Yoga",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+{
+    "name": "Transport Supervisor",
+    "id": 262,
+    "value": false
+    
+},
+
+
+
+
+
+
+
+{
+    "name": "Umbrella maker",
+    "id": 263,
+    "value": false
+    
+},
+
+{
+    "name": "Undercover cop",
+    "id": 264,
+    "value": false
+    
+},
+
+{
+    "name": "Underwater diver",
+    "id": 265,
+    "value": false
+    
+},
+
+{
+    "name": "Underwriter",
+    "id": 266,
+    "value": false
+    
+},
+
+{
+    "name": "Unicyclist",
+    "id": 267,
+    "value": false
+    
+},
+
+{
+    "name": "University professor",
+    "id": 268,
+    "value": false
+    
+},
+
+{
+    "name": "Urologo",
+    "id": 269,
+    "value": false
+    
+},
+
+{
+    "name": "uber driver",
+    "id": 270,
+    "value": false
+    
+},
+
+{
+    "name": "university teacher",
+    "id": 271,
+    "value": false
+    
+},
+
+{
+    "name": "urologist",
+    "id": 272,
+    "value": false
+    
+},
+
+{
+    "name": "usher",
+    "id": 273,
+    "value": false
+    
+},
+
+{
+    "name": "understudy",
+    "id": 274,
+    "value": false
+    
+},
+
+{
+    "name": "underwater welder",
+    "id": 275,
+    "value": false
+    
+},
+
+{
+    "name": "utility worker",
+    "id": 276,
+    "value": false
+    
+},
+
+
+{
+    "name": "UPS driver",
+    "id": 277,
+    "value": false
+    
+},
+
+{
+    "name": "Ukelele player",
+    "id": 278,
+    "value": false
+    
+},
+
+{
+    "name": "unicycler",
+    "id": 279,
+    "value": false
+    
+},
+
+{
+    "name": "Urban Planner",
+    "id": 280,
+    "value": false
+    
+},
+
+{
+    "name": "Urologue",
+    "id": 281,
+    "value": false
+    
+},
+
+{
+    "name": "university lecturer",
+    "id": 282,
+    "value": false
+    
+},
+
+{
+    "name": "Undercover agent",
+    "id": 283,
+    "value": false
+    
+},
+
+{
+    "name": "Ukulele player",
+    "id": 284,
+    "value": false
+    
+},
+
+{
+    "name": "urbanista",
+    "id": 285,
+    "value": false
+    
+},
+
+{
+    "name": "Union worker",
+    "id": 286,
+    "value": false
+    
+},
+
+{
+    "name": "Umbrella manufacturer",
+    "id": 287,
+    "value": false
+    
+},
+
+{
+    "name": "Umbrella salesman",
+    "id": 288,
+    "value": false
+    
+},
+
+{
+    "name": "Undergraduate",
+    "id": 289,
+    "value": false
+    
+},
+
+{
+    "name": "urinologist",
+    "id": 290,
+    "value": false
+    
+},
+
+{
+    "name": "Underground miner",
+    "id": 291,
+    "value": false
+    
+},
+
+{
+    "name": "union leader",
+    "id": 292,
+    "value": false
+    
+},
+
+{
+    "name": "Utilities Manager",
+    "id": 293,
+    "value": false
+    
+},
+
+{
+    "name": "UNDERTAKER",
+    "id": 294,
+    "value": false
+    
+},
+
+{
+    "name": "UFC fighter",
+    "id": 295,
+    "value": false
+    
+},
+
+{
+    "name": "Underground worker",
+    "id": 296,
+    "value": false
+    
+},
+
+{
+    "name": "U.S. Senator",
+    "id": 297,
+    "value": false
+    
+},
+
+{
+    "name": "Under writer",
+    "id": 298,
+    "value": false
+    
+},
+
+{
+    "name": "ultrasound specialist",
+    "id": 299,
+    "value": false
+    
+},
+
+{
+    "name": "Uhaul driver",
+    "id": 300,
+    "value": false
+    
+},
+
+{
+    "name": "under study",
+    "id": 301,
+    "value": false
+    
+},
+
+{
+    "name": "Ultrasound technician",
+    "id": 302,
+    "value": false
+    
+},
+
+{
+    "name": "Undertakers",
+    "id": 303,
+    "value": false
+    
+},
+
+{
+    "name": "Umbrella designer",
+    "id": 304,
+    "value": false
+    
+},
+
+{
+    "name": "university dean",
+    "id": 305,
+    "value": false
+    
+},
+
+{
+    "name": "ups",
+    "id": 306,
+    "value": false
+    
+},
+
+
+{
+    "name": "Undergraduate professor",
+    "id": 307,
+    "value": false
+    
+},
+
+{
+    "name": "university prof",
+    "id": 308,
+    "value": false
+    
+},
+
+{
+    "name": "Uni professor",
+    "id": 309,
+    "value": false
+    
+},
+
+{
+    "name": "Underwriting",
+    "id": 310,
+    "value": false
+    
+},
+
+{
+    "name": "Ultrasound person",
+    "id": 311,
+    "value": false
+    
+},
+
+{
+    "name": "Urgent care nurse",
+    "id": 312,
+    "value": false
+    
+},
+
+{
+    "name": "Underminer",
+    "id": 313,
+    "value": false
+    
+},
+
+{
+    "name": "ultrasound tech",
+    "id": 314,
+    "value": false
+    
+},
+
+{
+    "name": "usurper",
+    "id": 315,
+    "value": false
+    
+},
+
+{
+    "name": "User",
+    "id": 316,
+    "value": false
+    
+},
+
+{
+    "name": "Uterus",
+    "id": 317,
+    "value": false
+    
+},
+
+{
+    "name": "Undersecretary",
+    "id": 318,
+    "value": false
+    
+},
+
+
+{
+    "name": "Ulama",
+    "id": 319,
+    "value": false
+    
+},
+
+{
+    "name": "Undercover",
+    "id": 320,
+    "value": false
+    
+},
+
+{
+    "name": "utility man",
+    "id": 321,
+    "value": false
+    
+},
+
+{
+    "name": "United Airlines Pilot",
+    "id": 323,
+    "value": false
+    
+},
+
+{
+    "name": "umbrella man",
+    "id": 324,
+    "value": false
+    
+},
+
+
+{
+    "name": "Urologe",
+    "id": 325,
+    "value": false
+    
+},
+
+{
+    "name": "Urolog",
+    "id": 326,
+    "value": false
+    
+},
+
+{
+    "name": "uniform maker",
+    "id": 327,
+    "value": false
+    
+},
+
+{
+    "name": "Urologista",
+    "id": 328,
+    "value": false
+    
+},
+
+{
+    "name": "undercover spy",
+    "id": 329,
+    "value": false
+    
+},
+
+{
+    "name": "Ultimate Frisbee Player",
+    "id": 330,
+    "value": false
+    
+},
+
+{
+    "name": "University janitor",
+    "id": 331,
+    "value": false
+    
+},
+
+{
+    "name": "Umber",
+    "id": 332,
+    "value": false
+    
+},
+
+{
+    "name": "U.S. Representative",
+    "id": 333,
+    "value": false
+    
+},
+
+{
+    "name": "Urology",
+    "id": 334,
+    "value": false
+    
+},
+
+{
+    "name": "UMPIRE",
+    "id": 335,
+    "value": false
+    
+},
+
+{
+    "name": "UX Designer",
+    "id": 336,
+    "value": false
+    
+},
+
+{
+    "name": "Under cover cop",
+    "id": 337,
+    "value": false
+    
+},
+
+{
+    "name": "Uniform designer",
+    "id": 338,
+    "value": false
+    
+},
+
+{
+    "name": "Underwear tester",
+    "id": 339,
+    "value": false
+    
+},
+
+{
+    "name": "unicycle rider",
+    "id": 340,
+    "value": false
+    
+},
+
+{
+    "name": "Utility enginee",
+    "id": 341,
+    "value": false
+    
+},
+
+{
+    "name": "Usurero",
+    "id": 342,
+    "value": false
+    
+},
+
+{
+    "name": "university student",
+    "id": 343,
+    "value": false
+    
+},
+
+{
+    "name": "umbrella tester",
+    "id": 344,
+    "value": false
+    
+},
+
+
+
+
+
+
+{
+    "name": "Videographer",
+    "id": 345,
+    "value": false,
+    "childs": [
+        {
+            "name": "Event",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Fashion",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Films",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Media",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Nature",
+            "id": 5,
+            "value": false
+        },
+        {
+            "name": "Sports",
+            "id": 6,
+            "value": false
+        },
+        {
+            "name": "Travel",
+            "id": 7,
+            "value": false
+        },
+        {
+            "name": "Wedding",
+            "id": 8,
+            "value": false
+        },
+        {
+            "name": "Wildlife",
+            "id": 9,
+            "value": false
+        }
+    ]
+},
+
+
+
+
+
+
+{
+    "name": "Waiter/Steward",
+    "id": 346,
+    "value": false,
+    "childs": [
+        {
+            "name": "Airlines",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Healthcare",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Hotel & Restaurant",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Language",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Others",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Quick Service Restaurants",
+            "id": 6,
+            "value": false
+        }           
+    
+    ]
+},
+
+
+{
+    "name":"Ward Boy",
+    "id":347,
+    "value":false
+},
+
+{
+    "name": "Warehouse Executive",
+    "id": 348,
+    "value": false,
+    "childs": [
+        {
+            "name": "Picker/Helpers",
+            "id": 1,
+            "value": false
+        }           
+    
+    ]
+},
+
+
+{
+    "name": "Welder",
+    "id": 349,
+    "value": false,
+    "childs": [
+        {
+            "name": "Butt Welder",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Mig and Tig Welder",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Spot Welder",
+            "id": 3,
+            "value": false
+        },
+        {
+            "name": "Arc Welder",
+            "id": 4,
+            "value": false
+        },
+        {
+            "name": "Automotive Welders",
+            "id": 5,
+            "value": false
+        
+        },
+        {
+            "name": "Pipe Welders",
+            "id": 6,
+            "value": false
+        }           
+    
+    ]
+},
+
+
+{
+    "name": "Wireman",
+    "id": 350,
+    "value": false,
+    "childs": [
+        {
+            "name": "Commercial",
+            "id": 1,
+            "value": false
+        },
+        {
+            "name": "Residential",
+            "id": 2,
+            "value": false
+        },
+        {
+            "name": "Industrial",
+            "id": 3,
+            "value": false
+        }          
+    
+    ]
+},
+
+
+
+
+
+
+{
+    "name":"X ray operator",
+    "id":351,
+    "value":false
+},
+{
+    "name":"X-ray technician",
+    "id":352,
+    "value":false
+},
+
+{
+    "name":"Xylophonist",
+    "id":353,
+    "value":false
+},
+{
+    "name":"xilofonista",
+    "id":354,
+    "value":false
+},
+
+
+
+
+
+
+
+{
+    "name":"Yeller",
+    "id":355,
+    "value":false
+},
+{
+    "name":"Yodeller",
+    "id":356,
+    "value":false
+},
+{
+    "name":"Yoga Instructor",
+    "id":357,
+    "value":false
+},
+{
+    "name":"Yoga teacher",
+    "id":358,
+    "value":false
+},
+
+{
+    "name":"Youtuber",
+    "id":359,
+    "value":false
+},
+
+{
+    "name":"yachtsman",
+    "id":360,
+    "value":false
+},
+
+{
+    "name":"yoga",
+    "id":361,
+    "value":false
+},
+
+
+
+
+
+
+{
+    "name":"Zahnarzt",
+    "id":362,
+    "value":false
+},
+
+{
+    "name":"Zapatero",
+    "id":363,
+    "value":false
+},
+
+{
+    "name":"Zoo Veterinarian",
+    "id":364,
+    "value":false
+},
+
+{
+    "name":"Zoo keeper",
+    "id":365,
+    "value":false
+},
+
+{
+    "name":"Zooligist",
+    "id":366,
+    "value":false
+},
+
+{
+    "name":"Zoology",
+    "id":367,
+    "value":false
+},
+
+{
+    "name":"zebra trainer",
+    "id":368,
+    "value":false
+},
+
+{
+    "name":"zoo",
+    "id":369,
+    "value":false
+},
+
+{
+    "name":"zoo",
+    "id":370,
+    "value":false
+}
+
+]

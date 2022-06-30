@@ -1,0 +1,16 @@
+{
+    "educations": [
+        {
+            "name":"Graduation"
+        },
+        {
+            "name":"Any Graduate"
+        },
+        {
+            "name":"B.Tech/B.E."
+        },
+        {
+            "name":"B.Com"
+        }
+    ]
+}

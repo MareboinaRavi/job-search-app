@@ -1,0 +1,29 @@
+[
+    {
+      "id":"1",
+      "noticeperiod": "15 Days or Less"
+
+    },
+    {
+        "id":"2",
+      "noticeperiod": "1 Month"
+    },
+    {
+        "id":"3",
+      "noticeperiod": "2 Months"
+    },
+    {
+        "id":"4",
+      "noticeperiod": "3 Months"
+    },
+    {
+        "id":"5",
+      "noticeperiod": "More than 3 Months"
+    },
+    {
+        "id":"6",
+      "noticeperiod": "Serving Notice Period"
+    }
+
+
+]

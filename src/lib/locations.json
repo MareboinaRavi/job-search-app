@@ -1,0 +1,16 @@
+{
+    "locations": [
+        {
+            "name":"Delhi"
+        },
+        {
+            "name":"Mumbai"
+        },
+        {
+            "name":"Chennai"
+        },
+        {
+            "name":"Hyderabad"
+        }
+    ]
+}

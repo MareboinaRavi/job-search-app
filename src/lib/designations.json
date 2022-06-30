@@ -1,0 +1,16 @@
+{
+    "designations": [
+        {
+            "name":"Web Developer"
+        },
+        {
+            "name":"Full Stack Developer"
+        },
+        {
+            "name":"Flutter Developer"
+        },
+        {
+            "name":"Mobile Developer"
+        }
+    ]
+}

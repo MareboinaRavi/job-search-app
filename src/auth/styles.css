@@ -1,0 +1,145 @@
+/* SIGNIN */
+#email_root {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  /* .error{
+    text-align: left;
+    margin-left: 100px;
+  } */
+.pageSwitcherItem{
+  color: #2a3747;
+  padding: 10px 25px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 1.7em;
+  display: inline-block;
+  text-decoration: none;
+}
+.pageSwitcherItem-active {
+    background-color: #6b5b95;
+    color: white;
+  }
+  .pageSwitcherItem:hover{
+    color: #6b5b95;
+  }
+.App {
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px;
+    /* box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2); */
+    max-width: 615px;
+    /* padding-bottom: 66px; */
+    padding-top: 35px;
+    text-align: center;
+    width: 90%;
+    margin-top: 100px;
+    font-family: sans-serif;
+  }
+  .App > .logo {
+    max-width: 90%;
+  }
+  .App > .form {
+    margin-bottom: 50px;
+    margin-top: 41px;
+  }
+  
+  .email-group {
+    margin-bottom: 26px;
+  }
+
+  .email-group:nth-last-child(-n + 2) {
+    margin-bottom: 50px;
+  }
+  .email-type{
+    font-family: 'Roboto', sans-serif;
+    max-width: 420px;
+    width: 80%;
+    height: 40px;
+    margin:0px auto 26px auto;
+  }
+  .email-group > label,
+  .email-group > input {
+    font-family: 'Roboto', sans-serif;
+    max-width: 420px;
+    text-align: left;
+    width: 80%;
+  }
+  .email-group > label {
+    color: #676767;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
+  .email-group > input {
+    background: #f2f2f5;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+    color: #676767;
+    font-size: 16px;
+    height: 40px;
+    outline: 0;
+    padding: 0 15px;
+    transition: all 0.3s;
+  }
+  .email-group{
+    display:block !important;
+  }
+  .email-group > input:focus {
+    background: #fff;
+    border-color: #c4c4c4;
+  }
+  .email-group > input::placeholder {
+    color: #c4c4c4;
+    font-size: 16px;
+  }
+  .formField{
+      margin-bottom: 10px;
+  }
+  .signup-btn {
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    max-width: 420px;
+    outline: 0;
+    padding: 10px 0;
+    transition: background 0.3s;
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  button.signup-btn {
+    background: #270D44;
+  }
+  button.signup-btn:hover {
+    background: #270D44;
+  }
+  .verifyButton {
+    position: absolute;
+    background: #270D44;
+    left: 451px;
+    bottom: 1px;
+    color: white;
+  }
+  .verifyButton:hover {
+  background-color:#270D44 ;
+  }
+  .btn-verify{
+    background-color:#270D44 ;
+    color: white;
+  }
+  .btn-verify:hover{
+    background-color: #270D44;
+  }
+
+
+
+  

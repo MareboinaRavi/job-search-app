@@ -1,0 +1,13 @@
+{
+    "industryTypes": [
+        {
+            "name":"IT"
+        },
+        {
+            "name":"Marketing"
+        },
+        {
+            "name":"Content Writing"
+        }
+    ]
+}

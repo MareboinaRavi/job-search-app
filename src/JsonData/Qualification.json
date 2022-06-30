@@ -1,0 +1,27 @@
+[
+    {
+      "id":"1",
+      "qualification": "PHD"
+
+    },
+    {
+        "id":"2",
+        "qualification": "Masters/PostGraduation"
+  
+      },
+      {
+        "id":"3",
+        "qualification": "UnderGraduation/Diploma"
+  
+      },
+      {
+        "id":"4",
+        "qualification": "Intermediate"
+  
+      },
+      {
+        "id":"5",
+        "qualification": "10 th"
+  
+      }
+]
